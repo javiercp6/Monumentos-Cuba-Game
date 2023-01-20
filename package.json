@@ -1,0 +1,30 @@
+{
+  "name": "monumentos-cuba-game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "run": "^1.4.0",
+    "serve": "^11.3.2",
+    "sweetalert2": "^10.16.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.2.4",
+    "vue-sweetalert2": "^4.2.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
